@@ -1,2 +1,2 @@
-# garnet
-Garnet Theme for Bootstrap 4
+# Garnet Theme
+For Bootstrap 4
